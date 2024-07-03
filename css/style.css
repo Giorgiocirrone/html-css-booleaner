@@ -8,10 +8,13 @@
 
 }
 
-body {
+body,
+figure {
+    /*mettiamo anche figure perchè altrimenti andrebbe sotto */
 
     margin: 0;
     /*togliamo i margini dalla pagina*/
+
 
 
 }
@@ -57,3 +60,30 @@ a {
     text-decoration: none;
     color: aqua;
 }
+
+
+.altezza-tabella {
+    width: 50%;
+}
+
+th {
+    color: #fff;
+    text-align: left;
+    background-color: #fff;
+}
+
+tr {
+    background-color: #b1e5f2;
+
+}
+
+.even {
+    background-color: #fff;
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+.related-article {}
