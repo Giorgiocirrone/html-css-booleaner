@@ -32,3 +32,28 @@ body {
     /*spinta da sopra verso metà*/
     /*metà della garndezza*/
 }
+
+h1 {
+    font-size: 38px;
+    margin-bottom: 0;
+}
+
+.testo-grigio {
+    color: #808080;
+}
+
+address {
+    font-style: normal;
+    /*per correggere il formato pre impostato*/
+}
+
+
+.testo-piccolo {
+    font-size: 14px;
+
+}
+
+a {
+    text-decoration: none;
+    color: aqua;
+}
